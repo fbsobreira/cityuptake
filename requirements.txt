@@ -1,0 +1,6 @@
+pyfiglet==0.7.5
+pylint==1.9.2
+pymongo==3.7.0
+requests==2.19.1
+urllib3==1.23
+tronapi==3.0.2
